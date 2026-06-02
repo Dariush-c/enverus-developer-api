@@ -244,3 +244,8 @@ Reset the index of the DataFrame, and use the default one instead. [reset_index(
     df.reset_index(inplace=True)
     df.head(10)
 ```
+
+
+
+
+
